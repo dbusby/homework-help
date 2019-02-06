@@ -18,3 +18,5 @@ The first integer is 2 and the second is 11
 Not much of a cheese shop 
    Where the finest in the land
 ```
+
+[Helpful hints for the future of writing markdown](https://guides.github.com/features/mastering-markdown/)
