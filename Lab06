@@ -1,0 +1,10 @@
+int1 = 2
+int2 = 11
+Float1 = 3.4567
+Float2 = 12.345678
+String1 = "Not much of a cheese shop"
+String2 = "Where the finest in the land"
+
+print('The first integer is',int1)
+print('The first integer is',int1,'and the second is',int2)
+print('{:>9d}{:>13d}'.format(int1,int2))
