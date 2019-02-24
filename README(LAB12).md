@@ -7,5 +7,6 @@ Then the triangle is valid if all three conditions are satisfied:
 * a + b > c
 * a + c > b
 * b + c > a
+
 Ask the user for the sides of the triangle and output a message indicating that it is a valid or invalid triangle.
 Use if, if else, and nested if statements. Do not use complex conditions (and, or).
